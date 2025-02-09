@@ -62,16 +62,6 @@ Wear the glove and ensure all connections are secure.
 Power on the device.
 Perform gestures; the glove will translate them to text displayed on the screen or output as speech.
 
-Repository Structure
-
-SignGlove/
-├── Code/
-│   ├── sign_glove.ino       # Main Arduino code
-│   ├── gesture_library.h    # Gesture recognition logic
-├── Images/                  # Assembly and usage images
-├── README.md                # Project documentation
-├── LICENSE                  # Licensing information
-
 
 Contributing
 
